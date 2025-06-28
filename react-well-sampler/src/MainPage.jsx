@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const MainPage = () => {
+const SignUp = () => {
 
     return (
         <div>
@@ -12,4 +12,4 @@ const MainPage = () => {
     )
 }
 
-export default MainPage
+export default SignUp
